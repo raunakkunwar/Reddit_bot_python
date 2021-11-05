@@ -1,6 +1,6 @@
 
-username = "Disastrous_Poet_5786"
-password = "Hellochutiya7"
-client_id = "JZBUByaCqu3ft7S9Xk2xCQ"
-client_secret = "oih7yUUZ5jv29rdXMNMWMz8n9bnuYw"
+username = "Your_username"
+password = "Your_passowrd"
+client_id = "Client_id"
+client_secret = "client_secret"
 
